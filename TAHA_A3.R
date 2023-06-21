@@ -89,8 +89,6 @@ repeat {
       print(paste0("Sorry ", guess_the_word, " is not the mystery word."))
       print(paste0("You have ", 5-mistake, " mistakes left."))
     }
-
-
   }
 }
 #Check to see if the user input is in the secret word.
